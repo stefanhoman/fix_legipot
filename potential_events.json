@@ -1,0 +1,1066 @@
+[
+    {
+        "additional_value": 90,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 1,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 100,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 2,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 100,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 3,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 20,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 4,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 10,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 5,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 20,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 6,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 1,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 4,
+        "id": 7,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 30,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 8,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 15,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 9,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 30,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 10,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 50,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 11,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 25,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 12,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 50,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 13,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 35,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 14,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 5,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 3,
+        "id": 15,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 1,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 5,
+        "id": 16,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 1,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 6,
+        "id": 17,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 1,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 7,
+        "id": 18,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 200,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 19,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 1,
+        "id": 20,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 3,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 1,
+        "id": 21,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 3,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 2,
+        "id": 22,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 2,
+        "id": 23,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 3,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 3,
+        "id": 24,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 3,
+        "id": 25,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 70,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 26,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 70,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 27,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 50,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 28,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 4,
+        "id": 29,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 5,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 4,
+        "id": 30,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 5,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 6,
+        "id": 31,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 100,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 32,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 200,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 33,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 5,
+        "id": 34,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 5,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 5,
+        "id": 35,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 5,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 7,
+        "id": 36,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 6,
+        "id": 37,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 600,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 38,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 5,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 1,
+        "id": 39,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 500,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 40,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 5,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 2,
+        "id": 41,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 500,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 42,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 600,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 43,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 54,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 44,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 60,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 45,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 60,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 46,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 12,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 47,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 6,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 48,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 12,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 49,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 18,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 50,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 9,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 51,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 18,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 52,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 21,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 53,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 120,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 54,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 42,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 55,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 42,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 56,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 30,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 57,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 60,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 58,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 120,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 59,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 360,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 60,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 300,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 61,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 360,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 62,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 126,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 63,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 140,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 64,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 140,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 65,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 28,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 66,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 14,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 67,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 28,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 68,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 49,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 69,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 280,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 70,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 98,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 71,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 98,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 72,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 70,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 73,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 140,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 74,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 280,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 75,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 840,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 76,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 700,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 77,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 840,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 78,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 72,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 79,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 80,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 80,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 80,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 81,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 16,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 82,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 8,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 83,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 16,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 84,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 24,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 85,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 12,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 86,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 24,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 87,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 40,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 88,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 20,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 89,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 40,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 90,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 28,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 91,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 160,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 92,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 56,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 93,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 56,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 94,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 40,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 95,
+        "type": "PotentialEvent::Atk",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 80,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 96,
+        "type": "PotentialEvent::Hp",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 160,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": null,
+        "id": 97,
+        "type": "PotentialEvent::Defense",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 7,
+        "id": 98,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 8,
+        "id": 99,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 2,
+        "created_at": "2022-08-05 08:52:13.037824",
+        "currency_id": 1,
+        "id": 100,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.037824"
+    },
+    {
+        "additional_value": 2,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 2,
+        "id": 101,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 9,
+        "id": 102,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 4,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 1,
+        "id": 103,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 4,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 2,
+        "id": 104,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 4,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 3,
+        "id": 105,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 10,
+        "id": 106,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 2,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 3,
+        "id": 107,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 11,
+        "id": 108,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 1,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 1,
+        "id": 109,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 1,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 3,
+        "id": 110,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 12,
+        "id": 111,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 1,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 2,
+        "id": 112,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 2,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 7,
+        "id": 113,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 13,
+        "id": 114,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 14,
+        "id": 115,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 15,
+        "id": 116,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 2,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 6,
+        "id": 117,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 16,
+        "id": 118,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 17,
+        "id": 119,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 18,
+        "id": 120,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 19,
+        "id": 121,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 20,
+        "id": 122,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 3,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 4,
+        "id": 123,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 3,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 5,
+        "id": 124,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 21,
+        "id": 125,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 3,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 6,
+        "id": 126,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 3,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 7,
+        "id": 127,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 22,
+        "id": 128,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 23,
+        "id": 129,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 24,
+        "id": 130,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 2,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 5,
+        "id": 131,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 0,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 25,
+        "id": 132,
+        "type": "PotentialEvent::Select",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    },
+    {
+        "additional_value": 2,
+        "created_at": "2022-08-05 08:52:13.051881",
+        "currency_id": 4,
+        "id": 133,
+        "type": "PotentialEvent::Skill",
+        "updated_at": "2022-08-05 08:52:13.051881"
+    }
+]
