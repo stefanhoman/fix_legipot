@@ -14,15 +14,19 @@ with open('potential_events.json') as f:
 	potential_events=json.load(f)
 	potential_events=set([x['id'] for x in potential_events if x['type']=='PotentialEvent::Select'])
 
-def findway(start,done=set(),way=[]):
+def findway(start,done=set(),way=[],last_index = 0):
 	#print('start',start)
-	for x in potential_square_relations:
+	length = len(potential_square_relations)
+	for i in range(length):
+	# for x in potential_square_relations:
+		index = (last_index + i) % length
+		x = potential_square_relations[index]
 		if x['prev_potential_square_id'] == start and x['prev_potential_square_id']:
 			if start not in way:
 				way.append(start)
 			if x['potential_square_id'] in done:	continue
 			done.add(start)
-			findway(x['potential_square_id'],done,way)
+			findway(x['potential_square_id'],done,way,index + 1)
 	return way
 
 allids=set([x['id'] for x in psquares if x['potential_board_id']==boardid and x['id'] not in already and x['event_id'] not in potential_events])
